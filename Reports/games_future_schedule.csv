@@ -1,0 +1,85 @@
+season,season_type,Week,week_num,Date,home_team,away_team
+2019,postseason,,,,,
+2020,postseason,,,,,
+2021,postseason,,,,,
+2022,postseason,,,,,
+2023,postseason,,,,,
+2024,postseason,,,,,
+2025,regular,14,14,2025-12-04,Detroit Lions,Dallas Cowboys
+2025,regular,14,14,2025-12-07,Tampa Bay Buccaneers,New Orleans Saints
+2025,regular,14,14,2025-12-07,New York Jets,Miami Dolphins
+2025,regular,14,14,2025-12-07,Cleveland Browns,Tennessee Titans
+2025,regular,14,14,2025-12-07,Baltimore Ravens,Pittsburgh Steelers
+2025,regular,14,14,2025-12-07,Minnesota Vikings,Washington Commanders
+2025,regular,14,14,2025-12-07,Buffalo Bills,Cincinnati Bengals
+2025,regular,14,14,2025-12-07,Jacksonville Jaguars,Indianapolis Colts
+2025,regular,14,14,2025-12-07,Atlanta Falcons,Seattle Seahawks
+2025,regular,14,14,2025-12-07,Las Vegas Raiders,Denver Broncos
+2025,regular,14,14,2025-12-07,Arizona Cardinals,Los Angeles Rams
+2025,regular,14,14,2025-12-07,Green Bay Packers,Chicago Bears
+2025,regular,14,14,2025-12-07,Kansas City Chiefs,Houston Texans
+2025,regular,14,14,2025-12-08,Los Angeles Chargers,Philadelphia Eagles
+2025,regular,15,15,2025-12-11,Tampa Bay Buccaneers,Atlanta Falcons
+2025,regular,15,15,2025-12-14,New England Patriots,Buffalo Bills
+2025,regular,15,15,2025-12-14,Jacksonville Jaguars,New York Jets
+2025,regular,15,15,2025-12-14,Houston Texans,Arizona Cardinals
+2025,regular,15,15,2025-12-14,Kansas City Chiefs,Los Angeles Chargers
+2025,regular,15,15,2025-12-14,Cincinnati Bengals,Baltimore Ravens
+2025,regular,15,15,2025-12-14,New York Giants,Washington Commanders
+2025,regular,15,15,2025-12-14,Philadelphia Eagles,Las Vegas Raiders
+2025,regular,15,15,2025-12-14,Chicago Bears,Cleveland Browns
+2025,regular,15,15,2025-12-14,Denver Broncos,Green Bay Packers
+2025,regular,15,15,2025-12-14,San Francisco 49ers,Tennessee Titans
+2025,regular,15,15,2025-12-14,New Orleans Saints,Carolina Panthers
+2025,regular,15,15,2025-12-14,Los Angeles Rams,Detroit Lions
+2025,regular,15,15,2025-12-14,Seattle Seahawks,Indianapolis Colts
+2025,regular,15,15,2025-12-14,Dallas Cowboys,Minnesota Vikings
+2025,regular,15,15,2025-12-15,Pittsburgh Steelers,Miami Dolphins
+2025,regular,16,16,2025-12-18,Seattle Seahawks,Los Angeles Rams
+2025,regular,16,16,2025-12-20,Washington Commanders,Philadelphia Eagles
+2025,regular,16,16,2025-12-20,Chicago Bears,Green Bay Packers
+2025,regular,16,16,2025-12-21,Cleveland Browns,Buffalo Bills
+2025,regular,16,16,2025-12-21,New Orleans Saints,New York Jets
+2025,regular,16,16,2025-12-21,Tennessee Titans,Kansas City Chiefs
+2025,regular,16,16,2025-12-21,Dallas Cowboys,Los Angeles Chargers
+2025,regular,16,16,2025-12-21,Baltimore Ravens,New England Patriots
+2025,regular,16,16,2025-12-21,New York Giants,Minnesota Vikings
+2025,regular,16,16,2025-12-21,Carolina Panthers,Tampa Bay Buccaneers
+2025,regular,16,16,2025-12-21,Arizona Cardinals,Atlanta Falcons
+2025,regular,16,16,2025-12-21,Denver Broncos,Jacksonville Jaguars
+2025,regular,16,16,2025-12-21,Houston Texans,Las Vegas Raiders
+2025,regular,16,16,2025-12-21,Detroit Lions,Pittsburgh Steelers
+2025,regular,16,16,2025-12-21,Miami Dolphins,Cincinnati Bengals
+2025,regular,16,16,2025-12-22,Indianapolis Colts,San Francisco 49ers
+2025,regular,17,17,2025-12-25,Washington Commanders,Dallas Cowboys
+2025,regular,17,17,2025-12-25,Minnesota Vikings,Detroit Lions
+2025,regular,17,17,2025-12-25,Kansas City Chiefs,Denver Broncos
+2025,regular,17,17,2025-12-28,Tennessee Titans,New Orleans Saints
+2025,regular,17,17,2025-12-28,Cincinnati Bengals,Arizona Cardinals
+2025,regular,17,17,2025-12-28,Green Bay Packers,Baltimore Ravens
+2025,regular,17,17,2025-12-28,Carolina Panthers,Seattle Seahawks
+2025,regular,17,17,2025-12-28,Cleveland Browns,Pittsburgh Steelers
+2025,regular,17,17,2025-12-28,Los Angeles Chargers,Houston Texans
+2025,regular,17,17,2025-12-28,Miami Dolphins,Tampa Bay Buccaneers
+2025,regular,17,17,2025-12-28,Indianapolis Colts,Jacksonville Jaguars
+2025,regular,17,17,2025-12-28,Las Vegas Raiders,New York Giants
+2025,regular,17,17,2025-12-28,New York Jets,New England Patriots
+2025,regular,17,17,2025-12-28,Buffalo Bills,Philadelphia Eagles
+2025,regular,17,17,2025-12-28,San Francisco 49ers,Chicago Bears
+2025,regular,17,17,2025-12-29,Atlanta Falcons,Los Angeles Rams
+2025,regular,18,18,2026-01-04,San Francisco 49ers,Seattle Seahawks
+2025,regular,18,18,2026-01-04,Cincinnati Bengals,Cleveland Browns
+2025,regular,18,18,2026-01-04,Tampa Bay Buccaneers,Carolina Panthers
+2025,regular,18,18,2026-01-04,Denver Broncos,Los Angeles Chargers
+2025,regular,18,18,2026-01-04,Philadelphia Eagles,Washington Commanders
+2025,regular,18,18,2026-01-04,Houston Texans,Indianapolis Colts
+2025,regular,18,18,2026-01-04,Pittsburgh Steelers,Baltimore Ravens
+2025,regular,18,18,2026-01-04,Los Angeles Rams,Arizona Cardinals
+2025,regular,18,18,2026-01-04,New York Giants,Dallas Cowboys
+2025,regular,18,18,2026-01-04,Chicago Bears,Detroit Lions
+2025,regular,18,18,2026-01-04,Minnesota Vikings,Green Bay Packers
+2025,regular,18,18,2026-01-04,Jacksonville Jaguars,Tennessee Titans
+2025,regular,18,18,2026-01-04,Buffalo Bills,New York Jets
+2025,regular,18,18,2026-01-04,Las Vegas Raiders,Kansas City Chiefs
+2025,regular,18,18,2026-01-04,New England Patriots,Miami Dolphins
+2025,regular,18,18,2026-01-04,Atlanta Falcons,New Orleans Saints

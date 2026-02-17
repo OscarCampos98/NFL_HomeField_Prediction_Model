@@ -83,15 +83,14 @@ This keeps updates responsive but bounded.
 
 ## Elo Visualizations
 
-### NFC Continuous Elo Progression (2019–2025)
-*(Insert NFC Continuous Elo Progression graph here)*
+### NFC & AFC Continuous Elo Progression (2019–2025)
+![NFC & AFC Continuous Elo Progression](Graphs/continuous_elo.png)
 
 ### Elo Change vs Margin of Victory
-*(Insert Elo Change vs MOV graph here)*
+![Elo Change vs Margin of Victory](Graphs/elo_change_vs_margin_victory.png)
 
 ### Average Elo by Week (AFC vs NFC)
-*(Insert Conference Average Elo graph here)*
-
+![average_elo_by_week](Graphs/average_elo_by_week.png)
 These visualizations validate rating stability, margin responsiveness, and inter-conference strength shifts.
 
 ---
@@ -181,15 +180,14 @@ Late-season games introduce structural variance due to:
 
 ## Predicted Probability vs Actual Outcome (Week 14+)
 
-*(Insert Scatter Plot graph here)*
-
+![Probability vs Actual Outcome (Week 14+)](Graphs/predictionHomeWinProb_vs_ActualOutcome.png)
 Higher predicted probabilities generally correspond to home wins, confirming directional signal.
 
 ---
 
 ## Calibration Plot — Week 14+
 
-*(Insert Week 14 Calibration graph here)*
+![ Calibration Plot](Graphs/calibrationPlot-Predicted_vs_observed.png)
 
 The 0.5–0.6 probability range notably underperformed.  
 This confirms the pattern observed in the scatter plot and suggests that **marginal home advantage was unreliable late in the season**.
@@ -198,7 +196,7 @@ This confirms the pattern observed in the scatter plot and suggests that **margi
 
 ## Absolute Probability Error Distribution
 
-*(Insert Absolute Error Histogram graph here)*
+![Absolute Probability Error Distribution](Graphs/Distribution_of_absolute_prediction_error.png)
 
 Most prediction errors are moderate, with fewer extreme high-confidence misses.  
 This indicates calibration drift is concentrated in volatile matchups rather than systemic failure.

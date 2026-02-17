@@ -83,8 +83,8 @@ This keeps updates responsive but bounded.
 
 ## Elo Visualizations
 
-### NFC & AFC Continuous Elo Progression (2019–2025)
-![NFC & AFC Continuous Elo Progression](Graphs/continuous_elo.png)
+### AFC Continuous Elo Progression (2019–2025)
+![AFC Continuous Elo Progression](Graphs/continuous_elo.png)
 
 ### Elo Change vs Margin of Victory
 ![Elo Change vs Margin of Victory](Graphs/elo_change_vs_margin_victory.png)
